@@ -1,7 +1,7 @@
 # ecom-backend
 
 [Link to my project](https://github.com/Deiontre10/ecom-backend)
-[Link to demo video]()
+[Link to demo video](https://drive.google.com/file/d/1QDlTi6WIPvhEg9LQQM4t6luK97a_u1Us/view?usp=sharing)
 
 ## Table of Contents
 - [Description](#description)
@@ -12,4 +12,4 @@ The Ecom Backend is an ecommerce backend that allows you to get all categories, 
 
 ## Visuals
 
-![A main image]( "Splash Screen")
+![A main image](images/main.png "Splash Screen")
